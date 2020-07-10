@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1f8666f-200a-4d92-afc6-234b2fba7ba7" name="Default Changelist" comment="updated few conceptss" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectId" id="1R96Zf1sECchtJhnXP5ULKgsFLW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/ProjectFiles/Sample_for_sphinxdoc" />
+    <property name="settings.editor.selected.configurable" value="com.leinardi.pycharm.pylint.PylintConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Learning_example" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Learning_example" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_Works\Projects\Learning_example\Data_structures" />
+      <recent name="D:\python_Works\Projects\Learning_example\automate" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dictionaries">
+    <configuration name="To_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/To_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classes_and_objects" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/classes_and_objects.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datetime_examples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datetime_examples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\python_Works\Projects\Learning_example\Data_structures\dictionaries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="variables" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/intellipaat_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/intellipaat_examples/variables.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dictionaries" />
+        <item itemvalue="Python.datetime_examples" />
+        <item itemvalue="Python.classes_and_objects" />
+        <item itemvalue="Python.variables" />
+        <item itemvalue="Python.To_practice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\vembiah-1\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>true</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1f8666f-200a-4d92-afc6-234b2fba7ba7" name="Default Changelist" comment="" />
+      <created>1567774197371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567774197371</updated>
+      <workItem from="1573648111227" duration="2283000" />
+      <workItem from="1574168539382" duration="1282000" />
+      <workItem from="1574670690202" duration="4030000" />
+      <workItem from="1574939092124" duration="7382000" />
+      <workItem from="1575261223530" duration="12125000" />
+      <workItem from="1575538899474" duration="1137000" />
+      <workItem from="1575604431571" duration="6488000" />
+      <workItem from="1575865299864" duration="23316000" />
+      <workItem from="1576126458777" duration="443000" />
+      <workItem from="1576126920695" duration="615000" />
+      <workItem from="1576129158301" duration="231000" />
+      <workItem from="1576129403863" duration="121000" />
+      <workItem from="1576129537734" duration="204000" />
+      <workItem from="1576129754875" duration="508000" />
+      <workItem from="1576130287157" duration="165000" />
+      <workItem from="1576130465898" duration="808000" />
+      <workItem from="1576131781445" duration="1807000" />
+      <workItem from="1576133822940" duration="191000" />
+      <workItem from="1576134846861" duration="126000" />
+      <workItem from="1576150783310" duration="3181000" />
+      <workItem from="1576154247533" duration="65000" />
+      <workItem from="1576154326566" duration="9000" />
+      <workItem from="1576242076641" duration="1320000" />
+      <workItem from="1576471135650" duration="50000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1568092976280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568092976280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test">
+      <created>1568092994678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568092994678</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Test">
+      <created>1568291805568</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568291805568</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test">
+      <created>1569490325195</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569490325195</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Test">
+      <created>1569490831042</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569490831042</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Test bb">
+      <created>1569497192574</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569497192574</updated>
+    </task>
+    <task id="LOCAL-00007" summary="updated few concepts">
+      <created>1569561716989</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1569561716989</updated>
+    </task>
+    <task id="LOCAL-00008" summary="updated few concepts">
+      <created>1569584448732</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1569584448732</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated few concepts">
+      <created>1569826940940</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1569826940940</updated>
+    </task>
+    <task id="LOCAL-00010" summary="updated few concepts">
+      <created>1569921627259</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569921627259</updated>
+    </task>
+    <task id="LOCAL-00011" summary="updated few concepts">
+      <created>1570625066774</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570625066774</updated>
+    </task>
+    <task id="LOCAL-00012" summary="updated few concepts">
+      <created>1570625138899</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570625138899</updated>
+    </task>
+    <task id="LOCAL-00013" summary="updated few concepts">
+      <created>1570694262576</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570694262576</updated>
+    </task>
+    <task id="LOCAL-00014" summary="updated few concepts">
+      <created>1570710379746</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570710379747</updated>
+    </task>
+    <task id="LOCAL-00015" summary="updated few concepts">
+      <created>1571029061150</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571029061150</updated>
+    </task>
+    <task id="LOCAL-00016" summary="updated few concepts">
+      <created>1571029098673</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571029098673</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated few concepts">
+      <created>1571143465684</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571143465684</updated>
+    </task>
+    <task id="LOCAL-00018" summary="updated few concepts">
+      <created>1571144998577</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571144998577</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updated few concepts">
+      <created>1572002649420</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1572002649420</updated>
+    </task>
+    <task id="LOCAL-00020" summary="updated few conceptss">
+      <created>1576067042020</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1576067042020</updated>
+    </task>
+    <task id="LOCAL-00021" summary="updated few conceptss">
+      <created>1576472202378</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1576472202378</updated>
+    </task>
+    <task id="LOCAL-00022" summary="updated few conceptss">
+      <created>1576734278641</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1576734278641</updated>
+    </task>
+    <task id="LOCAL-00023" summary="updated few conceptss">
+      <created>1578301749388</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1578301749388</updated>
+    </task>
+    <task id="LOCAL-00024" summary="updated few conceptss">
+      <created>1578631915247</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1578631915247</updated>
+    </task>
+    <task id="LOCAL-00025" summary="updated few conceptss">
+      <created>1581498348548</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1581498348548</updated>
+    </task>
+    <task id="LOCAL-00026" summary="updated few conceptss">
+      <created>1581498362327</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1581498362327</updated>
+    </task>
+    <task id="LOCAL-00027" summary="updated few conceptss">
+      <created>1582119525488</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1582119525488</updated>
+    </task>
+    <task id="LOCAL-00028" summary="updated few conceptss">
+      <created>1582705844444</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1582705844444</updated>
+    </task>
+    <task id="LOCAL-00029" summary="updated few conceptss">
+      <created>1583324111946</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1583324111946</updated>
+    </task>
+    <task id="LOCAL-00030" summary="updated few conceptss">
+      <created>1583388280071</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1583388280071</updated>
+    </task>
+    <task id="LOCAL-00031" summary="updated few conceptss">
+      <created>1585238224041</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1585238224041</updated>
+    </task>
+    <task id="LOCAL-00032" summary="updated few conceptss">
+      <created>1585544376587</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1585544376587</updated>
+    </task>
+    <task id="LOCAL-00033" summary="updated few conceptss">
+      <created>1589368610006</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1589368610006</updated>
+    </task>
+    <task id="LOCAL-00034" summary="updated few conceptss">
+      <created>1592309535153</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1592309535153</updated>
+    </task>
+    <task id="LOCAL-00035" summary="updated few conceptss">
+      <created>1594290806944</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1594290806944</updated>
+    </task>
+    <task id="LOCAL-00036" summary="updated few conceptss">
+      <created>1594352077004</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1594352077004</updated>
+    </task>
+    <task id="LOCAL-00037" summary="updated few conceptss">
+      <created>1594390907901</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1594390907901</updated>
+    </task>
+    <task id="LOCAL-00038" summary="updated few conceptss">
+      <created>1594391660783</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1594391660783</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Test bb" />
+    <MESSAGE value="updated few concepts" />
+    <MESSAGE value="updated few conceptss" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated few conceptss" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="53" key="#Plugins" timestamp="1594308875685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="53" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1594308875685" />
+    <state x="491" y="0" key="CommitChangelistDialog2" timestamp="1594391044948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391044948" />
+    <state x="491" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594352075571" />
+    <state x="614" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589368608075" />
+    <state x="592" y="217" key="FileChooserDialogImpl" timestamp="1594290829197">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="592" y="217" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594290829197" />
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587977463136" />
+    <state x="626" y="310" key="Github.ShareDialog" timestamp="1594390984350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="626" y="310" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594390984350" />
+    <state width="1515" height="194" key="GridCell.Tab.0.bottom" timestamp="1594391053675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391053675" />
+    <state width="1515" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594365428381" />
+    <state width="1899" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590053819412" />
+    <state width="1515" height="194" key="GridCell.Tab.0.center" timestamp="1594391053675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391053675" />
+    <state width="1515" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594365428380" />
+    <state width="1899" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590053819412" />
+    <state width="1515" height="194" key="GridCell.Tab.0.left" timestamp="1594391053675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391053675" />
+    <state width="1515" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594365428380" />
+    <state width="1899" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590053819412" />
+    <state width="1515" height="194" key="GridCell.Tab.0.right" timestamp="1594391053675">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="194" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391053675" />
+    <state width="1515" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594365428381" />
+    <state width="1899" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590053819412" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1594389705299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594389705299" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1594389705299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594389705299" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1594389705298">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594389705298" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1594389705299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594389705299" />
+    <state x="182" y="9" width="1152" height="707" key="SettingsEditor" timestamp="1594290830221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="182" y="9" width="1152" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594290830221" />
+    <state x="20" y="162" width="1439" height="715" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591095090313" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1594391766137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391766137" />
+    <state x="615" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594391357968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="615" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391357968" />
+    <state x="615" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1594049529799" />
+    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589368638474" />
+    <state x="471" y="284" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1594391396430">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="471" y="284" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1594391396430" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1589185412159">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1589185412159" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../G5_Orion/Study materials/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../G5_Orion/Study materials/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../G5_Orion/Study materials/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../G5_Orion/Study materials/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../G5_Orion/Study materials/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../G5_Orion/Study materials/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../../G5_Orion/Study materials/Ex_Files_Python_EssT/Exercise Files/Chap05/bitwise.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
