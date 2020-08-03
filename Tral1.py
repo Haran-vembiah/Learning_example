@@ -4,6 +4,7 @@
 # print(list1.remove(5))
 # print(f'After pop {list1}')
 #
+import re
 from random import random
 
 # dict1 = {'name': 'haran','name1': 'haran1','name2': 'haran2','name3': 'haran3'}
@@ -91,17 +92,32 @@ from random import random
 #         print(x)
 #         break
 #         print("also")
+x=10
+kwargs = {'a':x,'b':11,'c':13}
+
+def sam_func(**kwargs):
+    print(kwargs['a'])
+    print(kwargs['b'])
+    print(len(kwargs))
+    if len(kwargs)> 2:
+        print(kwargs['c'])
+    print()
+    print(kwargs.items())
+    print(kwargs.keys())
+    kwargs['a'] = 100
+
+def sam_func1(**kwargs):
+    print(kwargs['a'])
 
 
-name_list = ('a','b','dsd','12')
-def seperate_names(name_list):
-    print(f"First name is {name_list[0]}")
-    # print("dsda")
-    listr_1 = ["Name","Address","Age","Sex"]
-    for row,data in enumerate(listr_1):
-        print(f"The row number {row} contains the data {data}")
-seperate_names(name_list)
+sam_func(**kwargs)
+kwargs['a'] = 100
+sam_func1(**kwargs)
 
-
-
+a1 = [1,2,34]
+b1 = []
+if a1:
+    print('a1 has data')
+if not b1:
+    print('b1 empty')
 

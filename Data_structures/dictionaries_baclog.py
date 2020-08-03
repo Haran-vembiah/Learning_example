@@ -43,3 +43,16 @@ for x in single_d:
 
 
 print("-----------------")
+
+
+dict_sample = {31441: {12345:
+                   {'changes_after_resolved': {'state': 'No_changes', 'Doc-Version': 'No_changes'},
+                    'changes_after_closed': {'state': 'No_changes', 'Doc-Version': 'No_changes'},
+                    'linked_backlog': 27429}
+               }}
+
+print(dict_sample)
+for backlog, req in dict_sample.items():
+    print(type(backlog))
+    print(backlog)
+    print(req)

@@ -42,3 +42,10 @@ print(datetime_today)
 datetime_pacific = datetime_today.astimezone(pytz.timezone('US/pacific'))
 print(datetime_pacific)
 
+
+state_changed = '2020-09-09T14:54:53.707Z'
+state_changed1 = '2020-08-09T14:54:53.707Z'
+req_changed = '2020-10-14 19:40:13.305519-07:00'
+
+print(state_changed >= state_changed1)
+
