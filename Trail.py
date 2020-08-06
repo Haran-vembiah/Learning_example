@@ -1,9 +1,17 @@
-class Sample:
-    def sam1(self,a,b):
-        return a+b
-    def sam2(self,x,y,z):
-        valu = Sample.sam1(self,x,y)
-        return valu
+from collections import defaultdict
 
-ss = Sample()
-print(ss.sam2(2,3,4))
+lst1 = [1,2,3,4]
+lst2 = [11,12]
+print(lst1)
+lst1.extend(lst2)
+print(lst1)
+
+dict1 = defaultdict(dict)
+print(id(dict1))
+
+kwars ={'dictname':dict1}
+print(id(kwars['dictname']))
+dict1.update({'name':'Haran','sex':'male'})
+print(id(dict1))
+print(kwars['dictname'])
+print(id(kwars['dictname']))

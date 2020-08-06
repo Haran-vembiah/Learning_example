@@ -1,4 +1,5 @@
 from collections import defaultdict
+from pprint import pprint
 
 '''
 # ============== Writing data with intermediate dict ================
@@ -43,16 +44,18 @@ for x in single_d:
 
 
 print("-----------------")
-
+dict2 = {'name':'haran'}
 
 dict_sample = {31441: {12345:
-                   {'changes_after_resolved': {'state': 'No_changes', 'Doc-Version': 'No_changes'},
-                    'changes_after_closed': {'state': 'No_changes', 'Doc-Version': 'No_changes'},
+                   {'changes_after_resolved': 'No_changes',
+                    'changes_after_closed': 'No_changes',
                     'linked_backlog': 27429}
                }}
 
 print(dict_sample)
-for backlog, req in dict_sample.items():
-    print(type(backlog))
-    print(backlog)
-    print(req)
+dict_sample[31441][12345].update({'dasda':'fsdfsd','fff':'fdsfsdfsd'})
+print(dict_sample)
+dict2.update(dict_sample)
+print(dict2)
+pprint(dict2)
+
