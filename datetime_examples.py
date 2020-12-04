@@ -1,8 +1,10 @@
 import datetime
 import pytz
 
-today = datetime.date.today()
-print(today)
+
+# today = datetime.date.today()
+# print(today)
+from dateutil.utils import today
 
 birthday = datetime.date(1988,6,18)
 print(birthday)
@@ -14,8 +16,10 @@ print(div_days_since)
 days_since_birth = (today - birthday).days
 print(days_since_birth)
 
-tdelta = datetime.timedelta(days=10)
+tdelta = datetime.timedelta(days=56)
+recharge_date = datetime.date(2020,8,10)
 print(today+tdelta)
+print("expiry date",recharge_date+tdelta)
 # Add 10 days to current
 print(datetime.datetime.now() + tdelta)
 
@@ -49,3 +53,6 @@ req_changed = '2020-10-14 19:40:13.305519-07:00'
 
 print(state_changed >= state_changed1)
 
+datetime_str = '09/19/18 13:55:26'
+
+datetime_object = datetime.strptime(datetime_str, '%m/%d/%y %H:%M:%S')
