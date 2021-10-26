@@ -4,6 +4,7 @@ with open('input.txt', 'r') as t:
     # print(t.read())
     for line in t:
         line_split = line.split()
+        print(line_split)
         if line_split[2] == 'P':
             passedfile.write(line)
         else:

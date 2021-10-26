@@ -14,11 +14,13 @@ print(d)
 
 
 dict1 = {1:23}
+print('For dir')
 print(dir(dict1))
 
 # list comprehension
 d = {'ANIMAL' : ['CAT','DOG','FISH','HEDGEHOG']}
 d_list = [[k,v] for k,value in d.items() for v in value]
+print('by list comprehension')
 print(d_list)
 
 # Iteration over

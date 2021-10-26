@@ -10,3 +10,7 @@ list1 = [123,234,456,123,234,987,654]
 print(list1)
 list1 = list(set(list1))
 print(list1)
+
+name = "operation stirrer   "
+renamed = name.strip()
+print(renamed)

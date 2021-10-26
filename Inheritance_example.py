@@ -19,7 +19,7 @@ class Cat():
     def speak(self):
         print(self.name + " says Meow")
 
-
+# a = Animal()
 my_dog = Dog("Lab")
 my_cat = Cat("Lus")
 print(my_dog.speak())

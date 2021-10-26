@@ -1,0 +1,17 @@
+2021-03-11 13:45:02,278 - simple_example - ERROR - error message
+2021-03-11 13:45:02,278 - simple_example - CRITICAL - critical message
+2021-03-11 15:18:55,216 - simple_example - DEBUG - debug message
+2021-03-11 15:18:55,216 - simple_example - INFO - info message
+2021-03-11 15:18:55,217 - simple_example - WARNING - warn message
+2021-03-11 15:18:55,217 - simple_example - ERROR - error message
+2021-03-11 15:18:55,217 - simple_example - CRITICAL - critical message
+2021-07-02 16:41:27,561 - simple_example - DEBUG - debug message
+2021-07-02 16:41:27,562 - simple_example - INFO - info message
+2021-07-02 16:41:27,562 - simple_example - WARNING - warn message
+2021-07-02 16:41:27,563 - simple_example - ERROR - error message
+2021-07-02 16:41:27,563 - simple_example - CRITICAL - critical message
+2021-07-02 18:50:02,790 - simple_example - DEBUG - debug message
+2021-07-02 18:50:02,791 - simple_example - INFO - info message
+2021-07-02 18:50:02,791 - simple_example - WARNING - warn message
+2021-07-02 18:50:02,791 - simple_example - ERROR - error message
+2021-07-02 18:50:02,791 - simple_example - CRITICAL - critical message
