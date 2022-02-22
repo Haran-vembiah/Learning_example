@@ -13,35 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1f8666f-200a-4d92-afc6-234b2fba7ba7" name="Default Changelist" comment="updated few conceptss">
-      <change afterPath="$PROJECT_DIR$/API_Testing/sampl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_August_month.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_September_month.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qt_for_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random_examples/fun_events.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Random_examples/sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict_to_tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_functions/file_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main_functions/file_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpletreemodel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_scraping/sample_webscraping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Copying_directory/update_srd.log" beforeDir="false" afterPath="$PROJECT_DIR$/Copying_directory/update_srd.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structures/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structures/for_loop_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/for_loop_sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structures/list_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/list_sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structures/string_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/string_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/files_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/files_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_finished.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_finished.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_start.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/jsondata_finished.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/jsondata_finished.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/xmlparsing_finished.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/xmlparsing_finished.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/textfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/textfile.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_July_month.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_July_month.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Outlook_data/fetch_outlook_appointments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Outlook_data/fetch_outlook_appointments.py" afterDir="false" />
-    </list>
+    <list default="true" id="c1f8666f-200a-4d92-afc6-234b2fba7ba7" name="Default Changelist" comment="updated few conceptss" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -636,6 +608,7 @@
       <workItem from="1645234494848" duration="6576000" />
       <workItem from="1645334673752" duration="782000" />
       <workItem from="1645417470870" duration="604000" />
+      <workItem from="1645504754795" duration="311000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1568092976280</created>
@@ -966,7 +939,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635223557393</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="updated few conceptss">
+      <created>1645504979129</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1645504979129</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
