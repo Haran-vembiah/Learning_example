@@ -2,14 +2,15 @@
 # Example file for parsing and processing JSON
 #
 
-import urllib.request  # instead of urllib2 like in Python 2.7
 import json
+import urllib.request  # instead of urllib2 like in Python 2.7
 
 
 def printResults(data):
     # Use the json module to load the string data into a dictionary
     theJSON = json.loads(data)
-
+    beauty = json.dumps(theJSON, indent=1)
+    print(beauty)
     # now we can access the contents of the JSON like any other Python object
     if "title" in theJSON["metadata"]:
         print(theJSON["metadata"]["title"])

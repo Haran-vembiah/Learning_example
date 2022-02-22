@@ -1,14 +1,13 @@
 #
 # Example file for working with filesystem shell methods
 #
-import os
 from os import path
 
 def main():
   # make a duplicate of an existing file
   if path.exists("textfile.txt"):
     # get the path to the file in the current directory
-
+    pass
     
     # let's make a backup copy by appending "bak" to the name
 

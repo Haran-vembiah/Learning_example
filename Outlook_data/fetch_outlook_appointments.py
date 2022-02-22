@@ -1,12 +1,11 @@
 import datetime as dt
-from pprint import pprint
 
 import pandas as pd
 import win32com.client
-import openpyxl
 
-begin = dt.datetime(2021, 7, 1)
-end = dt.datetime(2021, 8, 1)
+begin = dt.datetime(2021, 9, 1)
+end = dt.datetime(2021, 10, 1)
+
 
 def get_calendar(begin, end):
     outlook = win32com.client.Dispatch('Outlook.Application').GetNamespace('MAPI')

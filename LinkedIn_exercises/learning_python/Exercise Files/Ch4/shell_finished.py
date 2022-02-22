@@ -2,16 +2,16 @@
 # Example file for working with filesystem shell methods
 #
 import os
-from os import path
 import shutil
-from shutil import make_archive
+from os import path
 from zipfile import ZipFile
+
 
 def main():
   # make a duplicate of an existing file
   if path.exists("textfile.txt"):
     # get the path to the file in the current directory
-    src = path.realpath("textfile.txt");
+    src = path.realpath("textfile.txt")
         
     # # let's make a backup copy by appending "bak" to the name
     dst = src + ".bak"

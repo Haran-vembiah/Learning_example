@@ -14,125 +14,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1f8666f-200a-4d92-afc6-234b2fba7ba7" name="Default Changelist" comment="updated few conceptss">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Copying_directory/fetch_srd_from_sharepoint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Copying_directory/update_srd.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_structures/for_loop_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_structures/list_contains_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data_structures/list_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hackerrank_codes/sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Classes_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/classes_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/classes_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/conditionals_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/conditionals_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/functions_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/functions_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/helloworld_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/helloworld_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/loops_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/loops_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/modules_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/modules_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/variables_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch2/variables_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/calendars_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/calendars_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/dates_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/dates_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/formatting_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/formatting_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/timedeltas_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch3/timedeltas_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/files_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/files_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/ospathutils_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/ospathutils_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/textfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/htmlparsing_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/htmlparsing_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/inetdata_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/inetdata_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/jsondata_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/jsondata_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/samplehtml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/samplexml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/xmlparsing_finished.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/xmlparsing_start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/archived.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/calendar_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/datetime_examples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/file_system_shell_methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/sample.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/testzip.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/textfile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/textfile.txt.bak" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/working_os_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/working_with_files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/working_with_web_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/dict_config_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/diff_handler_formatter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/example.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/file_rotating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/log_config_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/logging.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/logging_rotatingfile_example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/logging_rotatingfile_example.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/logging_rotatingfile_example.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/logging_rotatingfile_example.3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/logging_rotatingfile_example.4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/myapp.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/myapp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/mylib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/sample_logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logging_modules/spam.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/bin/www" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/public/stylesheets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/routes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/routes/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/views/error.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/views/index.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/myExpressApp/views/layout.pug" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Node_examples/sample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_July_month.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_June_month.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outlook_data/fetch_outlook_appointments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Outlook_data/fetch_outlook_mails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Qt_sample/sample_Qt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Text_to_Audio/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Text_to_Audio/demo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Text_to_Audio/fileoutput.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Text_to_Audio/sample_gtts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_to_audiobook/1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_to_audiobook/Decrypt.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_to_audiobook/HIDE-AND-SEEK.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_to_audiobook/audio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_to_audiobook/sam.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_to_audiobook/sam1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_to_audiobook/sample_audio_book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send_mail_sample/mail_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sms_api/sms_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlalchemy/PostgreSQL+and+Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlalchemy/sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sqlalchemy/sample_sqlalchemy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Learning_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learning_example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_Testing/sampl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_August_month.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_September_month.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Qt_for_python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random_examples/fun_events.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random_examples/sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict_to_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json_sample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_functions/file_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_functions/file_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simpletreemodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_scraping/sample_webscraping.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Copying_directory/update_srd.log" beforeDir="false" afterPath="$PROJECT_DIR$/Copying_directory/update_srd.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data_structures/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_structures/sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_structures/for_loop_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/for_loop_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data_structures/list_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/list_sample.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Data_structures/string_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_structures/string_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI_Programs/sample_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI_Programs/sample_gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inheritance_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inheritance_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/To_practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Trail.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/automate/automate.py" beforeDir="false" afterPath="$PROJECT_DIR$/automate/automate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/files_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/files_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_finished.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_finished.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_start.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/jsondata_finished.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/jsondata_finished.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/xmlparsing_finished.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5/xmlparsing_finished.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/textfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn_exercises/learning_python/textfile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_July_month.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Outlook_data/Meeting_data_of_July_month.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Outlook_data/fetch_outlook_appointments.py" beforeDir="false" afterPath="$PROJECT_DIR$/Outlook_data/fetch_outlook_appointments.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +58,9 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -164,9 +75,25 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Data_structures/for_loop_sample.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Copying_directory/fetch_srd_from_sharepoint.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tral1.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data_structures/list_contains_list.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Data_structures/dictionaries.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Trail.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/send_mail_sample/mail_sample.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/regular_expressions.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/udemy_code_challenge.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/shell_finished.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch4/files_start.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="JupyterTrust" id="62bd624a-48ff-40ae-8153-e4689a3fc9b1" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="ProjectId" id="1R96Zf1sECchtJhnXP5ULKgsFLW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -184,7 +111,6 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="format.on.save" value="true" />
     <property name="format.on.save.only.changed.lines" value="true" />
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.19.0" />
@@ -197,8 +123,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="optimize.imports.on.save" value="true" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -228,18 +153,21 @@
       <recent name="D:\python_Works\Projects\Learning_example\automate" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.working_with_web_data">
-    <configuration name="Trail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.dict_config_example">
+    <configuration name="Decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_example" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Trail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Decorators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,6 +242,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="dict_config_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learning_example" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Logging_modules" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Logging_modules/dict_config_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="dictionaries (1)" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
       <module name="Learning_example" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,17 +286,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_system_shell_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_sample" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_example" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python/file_system_shell_methods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_structures/list_sample.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,17 +308,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="working_os_path" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sample_webscraping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_example" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web_scraping" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python/working_os_path.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web_scraping/sample_webscraping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -374,36 +330,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="working_with_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="string_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learning_example" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data_structures" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python/working_with_files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="working_with_web_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learning_example" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LinkedIn_exercises/learning_python/working_with_web_data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data_structures/string_functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,19 +356,19 @@
       <item itemvalue="Python.classes_and_objects" />
       <item itemvalue="Python.datetime_examples" />
       <item itemvalue="Python.dictionaries (1)" />
-      <item itemvalue="Python.Trail" />
-      <item itemvalue="Python.working_with_files" />
-      <item itemvalue="Python.working_os_path" />
-      <item itemvalue="Python.file_system_shell_methods" />
-      <item itemvalue="Python.working_with_web_data" />
+      <item itemvalue="Python.sample_webscraping" />
+      <item itemvalue="Python.string_functions" />
+      <item itemvalue="Python.list_sample" />
+      <item itemvalue="Python.Decorators" />
+      <item itemvalue="Python.dict_config_example" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.working_with_web_data" />
-        <item itemvalue="Python.file_system_shell_methods" />
-        <item itemvalue="Python.working_os_path" />
-        <item itemvalue="Python.working_with_files" />
-        <item itemvalue="Python.Trail" />
+        <item itemvalue="Python.dict_config_example" />
+        <item itemvalue="Python.string_functions" />
+        <item itemvalue="Python.list_sample" />
+        <item itemvalue="Python.Decorators" />
+        <item itemvalue="Python.sample_webscraping" />
       </list>
     </recent_temporary>
   </component>
@@ -619,7 +559,83 @@
       <workItem from="1634875246515" duration="3703000" />
       <workItem from="1634905915912" duration="599000" />
       <workItem from="1635140851612" duration="302000" />
-      <workItem from="1635141169871" duration="13678000" />
+      <workItem from="1635141169871" duration="22438000" />
+      <workItem from="1635479754378" duration="1255000" />
+      <workItem from="1635501596331" duration="1259000" />
+      <workItem from="1635780214488" duration="38000" />
+      <workItem from="1635780269726" duration="4000" />
+      <workItem from="1635827063996" duration="19385000" />
+      <workItem from="1635914646201" duration="4776000" />
+      <workItem from="1636427059776" duration="599000" />
+      <workItem from="1636430328684" duration="1757000" />
+      <workItem from="1636518525051" duration="827000" />
+      <workItem from="1636529993628" duration="8387000" />
+      <workItem from="1636608625372" duration="3779000" />
+      <workItem from="1636643658100" duration="2568000" />
+      <workItem from="1636897184724" duration="1282000" />
+      <workItem from="1636957489473" duration="1221000" />
+      <workItem from="1637124237641" duration="1561000" />
+      <workItem from="1637209839445" duration="2294000" />
+      <workItem from="1637251102517" duration="330000" />
+      <workItem from="1637251477824" duration="647000" />
+      <workItem from="1638178361528" duration="1434000" />
+      <workItem from="1638438950572" duration="1102000" />
+      <workItem from="1638505753704" duration="1278000" />
+      <workItem from="1639674329487" duration="1973000" />
+      <workItem from="1639676328299" duration="1987000" />
+      <workItem from="1639713012476" duration="5191000" />
+      <workItem from="1639930604430" duration="32000" />
+      <workItem from="1639930656026" duration="595000" />
+      <workItem from="1639990799198" duration="1341000" />
+      <workItem from="1640059195611" duration="1812000" />
+      <workItem from="1640160774971" duration="1434000" />
+      <workItem from="1640247122338" duration="606000" />
+      <workItem from="1640250182707" duration="595000" />
+      <workItem from="1640255579945" duration="595000" />
+      <workItem from="1640329831801" duration="1205000" />
+      <workItem from="1640584478610" duration="608000" />
+      <workItem from="1640585101798" duration="700000" />
+      <workItem from="1640586276115" duration="597000" />
+      <workItem from="1640587881631" duration="77000" />
+      <workItem from="1640587999907" duration="588000" />
+      <workItem from="1640588615360" duration="679000" />
+      <workItem from="1640589703114" duration="102000" />
+      <workItem from="1640589825395" duration="98000" />
+      <workItem from="1640589954708" duration="42000" />
+      <workItem from="1640590517932" duration="85000" />
+      <workItem from="1640590625466" duration="5405000" />
+      <workItem from="1640596126525" duration="601000" />
+      <workItem from="1640599645046" duration="56000" />
+      <workItem from="1640599735044" duration="50000" />
+      <workItem from="1640599929482" duration="52000" />
+      <workItem from="1640600054783" duration="18000" />
+      <workItem from="1640600124737" duration="139000" />
+      <workItem from="1640600284758" duration="236000" />
+      <workItem from="1640600544417" duration="123000" />
+      <workItem from="1640600791073" duration="104000" />
+      <workItem from="1640601927865" duration="145000" />
+      <workItem from="1640602095861" duration="59000" />
+      <workItem from="1640602176080" duration="263000" />
+      <workItem from="1640602524985" duration="207000" />
+      <workItem from="1640602810243" duration="89000" />
+      <workItem from="1640602922425" duration="361000" />
+      <workItem from="1641898257418" duration="213000" />
+      <workItem from="1641899929232" duration="1735000" />
+      <workItem from="1642065350844" duration="2604000" />
+      <workItem from="1642412368866" duration="906000" />
+      <workItem from="1642477118987" duration="611000" />
+      <workItem from="1643787510808" duration="5137000" />
+      <workItem from="1643812429560" duration="655000" />
+      <workItem from="1643867884825" duration="2379000" />
+      <workItem from="1643948131283" duration="705000" />
+      <workItem from="1644206073109" duration="1194000" />
+      <workItem from="1644221481428" duration="1913000" />
+      <workItem from="1644300858877" duration="2289000" />
+      <workItem from="1644468330098" duration="3805000" />
+      <workItem from="1644821433978" duration="776000" />
+      <workItem from="1645234494848" duration="6576000" />
+      <workItem from="1645334673752" duration="782000" />
+      <workItem from="1645417470870" duration="604000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1568092976280</created>
@@ -943,7 +959,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607078110447</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="updated few conceptss">
+      <created>1635223557392</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1635223557393</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -993,7 +1016,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -1041,9 +1063,10 @@
           <line>9</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="robot-line">
-          <url>file://$PROJECT_DIR$/Hackerrank_codes/sample.py</url>
-          <option name="timeStamp" value="11" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Trail.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
@@ -1054,39 +1077,52 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="list1" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Learning_example$calendar_sample.coverage" NAME="calendar_sample Coverage Results" MODIFIED="1635178325332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
-    <SUITE FILE_PATH="coverage/Learning_example$demo.coverage" NAME="demo Coverage Results" MODIFIED="1618832578601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Text_to_Audio" />
     <SUITE FILE_PATH="coverage/Learning_example$working_os_path.coverage" NAME="working_os_path Coverage Results" MODIFIED="1635180362515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
-    <SUITE FILE_PATH="coverage/Learning_example$file_system_shell_methods.coverage" NAME="file_system_shell_methods Coverage Results" MODIFIED="1635181070572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
-    <SUITE FILE_PATH="coverage/Learning_example$myapp.coverage" NAME="myapp Coverage Results" MODIFIED="1615437789005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logg" />
-    <SUITE FILE_PATH="coverage/Learning_example$dictionaries__1_.coverage" NAME="dictionaries (1) Coverage Results" MODIFIED="1622738361888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structures" />
-    <SUITE FILE_PATH="coverage/Learning_example$string_functions.coverage" NAME="string_functions Coverage Results" MODIFIED="1610340494250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structures" />
-    <SUITE FILE_PATH="coverage/Learning_example$diff_handler_formatter__1_.coverage" NAME="diff_handler_formatter (1) Coverage Results" MODIFIED="1615456134999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logging_modules" />
-    <SUITE FILE_PATH="coverage/Learning_example$mousemove.coverage" NAME="mousemove Coverage Results" MODIFIED="1602137470488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning_example$sample_audio_book.coverage" NAME="sample_audio_book Coverage Results" MODIFIED="1624202250861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdf_to_audiobook" />
-    <SUITE FILE_PATH="coverage/Learning_example$list_contains_list.coverage" NAME="list_contains_list Coverage Results" MODIFIED="1612420943758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structures" />
     <SUITE FILE_PATH="coverage/Learning_example$sample_logging__1_.coverage" NAME="sample_logging (1) Coverage Results" MODIFIED="1615367799688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logg" />
-    <SUITE FILE_PATH="coverage/Learning_example$classes_and_objects.coverage" NAME="classes_and_objects Coverage Results" MODIFIED="1622780602167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning_example$sample_logging.coverage" NAME="sample_logging Coverage Results" MODIFIED="1615528287997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logging_modules" />
-    <SUITE FILE_PATH="coverage/Learning_example$sample_gui.coverage" NAME="sample_gui Coverage Results" MODIFIED="1618832410504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Programs" />
-    <SUITE FILE_PATH="coverage/Learning_example$file_rotating.coverage" NAME="file_rotating Coverage Results" MODIFIED="1615351922845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logging" />
-    <SUITE FILE_PATH="coverage/Learning_example$To_practice.coverage" NAME="To_practice Coverage Results" MODIFIED="1635156535673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning_example$recharge_data.coverage" NAME="recharge_data Coverage Results" MODIFIED="1609772772259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning_example$sample.coverage" NAME="sample Coverage Results" MODIFIED="1632296746010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackerrank_codes" />
-    <SUITE FILE_PATH="coverage/Learning_example$datetime_examples.coverage" NAME="datetime_examples Coverage Results" MODIFIED="1605636658221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning_example$Classes_example.coverage" NAME="Classes_example Coverage Results" MODIFIED="1635155131507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Learning_example$new_solution.coverage" NAME="new_solution Coverage Results" MODIFIED="1625848290695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Copying_directory" />
     <SUITE FILE_PATH="coverage/Learning_example$dict_config_example.coverage" NAME="dict_config_example Coverage Results" MODIFIED="1615792091296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logging_modules" />
     <SUITE FILE_PATH="coverage/Learning_example$copy_folder.coverage" NAME="copy_folder Coverage Results" MODIFIED="1625242079225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Copying_directory" />
-    <SUITE FILE_PATH="coverage/Learning_example$log_config_file.coverage" NAME="log_config_file Coverage Results" MODIFIED="1615445226211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logg" />
-    <SUITE FILE_PATH="coverage/Learning_example$diff_handler_formatter.coverage" NAME="diff_handler_formatter Coverage Results" MODIFIED="1615444564457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logg" />
+    <SUITE FILE_PATH="coverage/Learning_example$dictionaries__1_.coverage" NAME="dictionaries (1) Coverage Results" MODIFIED="1645237087666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_example$pytest_in_sampl_py.coverage" NAME="pytest in sampl.py Coverage Results" MODIFIED="1644470064010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_Testing" />
     <SUITE FILE_PATH="coverage/Learning_example$PostgreSQL_and_Python.coverage" NAME="PostgreSQL+and+Python Coverage Results" MODIFIED="1618831680589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlalchemy" />
     <SUITE FILE_PATH="coverage/Learning_example$create_table.coverage" NAME="create_table Coverage Results" MODIFIED="1619152824820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlalchemy" />
-    <SUITE FILE_PATH="coverage/Learning_example$fetch_outlook_data.coverage" NAME="fetch_outlook_data Coverage Results" MODIFIED="1624716856516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Outlook_data" />
-    <SUITE FILE_PATH="coverage/Learning_example$datetime_examples__1_.coverage" NAME="datetime_examples (1) Coverage Results" MODIFIED="1635176649100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
+    <SUITE FILE_PATH="coverage/Learning_example$calendar_sample.coverage" NAME="calendar_sample Coverage Results" MODIFIED="1635178325332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
+    <SUITE FILE_PATH="coverage/Learning_example$pytest_for_sampl_test_api_post.coverage" NAME="pytest for sampl.test_api_post Coverage Results" MODIFIED="1644474752514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_Testing" />
     <SUITE FILE_PATH="coverage/Learning_example$validity_calculator.coverage" NAME="validity_calculator Coverage Results" MODIFIED="1618832573022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Programs" />
+    <SUITE FILE_PATH="coverage/Learning_example$myapp.coverage" NAME="myapp Coverage Results" MODIFIED="1615437789005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logg" />
+    <SUITE FILE_PATH="coverage/Learning_example$fetch_outlook_data.coverage" NAME="fetch_outlook_data Coverage Results" MODIFIED="1624716856516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Outlook_data" />
+    <SUITE FILE_PATH="coverage/Learning_example$Trail.coverage" NAME="Trail Coverage Results" MODIFIED="1635761379821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$file_rotating.coverage" NAME="file_rotating Coverage Results" MODIFIED="1615351922845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logging" />
+    <SUITE FILE_PATH="coverage/Learning_example$dict_to_tree.coverage" NAME="dict_to_tree Coverage Results" MODIFIED="1636647046354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$jsondata_finished.coverage" NAME="jsondata_finished Coverage Results" MODIFIED="1635228954356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5" />
+    <SUITE FILE_PATH="coverage/Learning_example$new_solution.coverage" NAME="new_solution Coverage Results" MODIFIED="1625848290695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Copying_directory" />
+    <SUITE FILE_PATH="coverage/Learning_example$pytest_for_sampl_test_api_get.coverage" NAME="pytest for sampl.test_api_get Coverage Results" MODIFIED="1644471017787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API_Testing" />
+    <SUITE FILE_PATH="coverage/Learning_example$diff_handler_formatter__1_.coverage" NAME="diff_handler_formatter (1) Coverage Results" MODIFIED="1615456134999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logging_modules" />
+    <SUITE FILE_PATH="coverage/Learning_example$demo.coverage" NAME="demo Coverage Results" MODIFIED="1618832578601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Text_to_Audio" />
+    <SUITE FILE_PATH="coverage/Learning_example$Classes_example.coverage" NAME="Classes_example Coverage Results" MODIFIED="1635155131507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$datetime_examples.coverage" NAME="datetime_examples Coverage Results" MODIFIED="1605636658221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$datetime_examples__1_.coverage" NAME="datetime_examples (1) Coverage Results" MODIFIED="1635176649100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
+    <SUITE FILE_PATH="coverage/Learning_example$xmlparsing_finished.coverage" NAME="xmlparsing_finished Coverage Results" MODIFIED="1635229787924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python/Exercise Files/Ch5" />
+    <SUITE FILE_PATH="coverage/Learning_example$file_system_shell_methods.coverage" NAME="file_system_shell_methods Coverage Results" MODIFIED="1635181070572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn_exercises/learning_python" />
+    <SUITE FILE_PATH="coverage/Learning_example$mousemove.coverage" NAME="mousemove Coverage Results" MODIFIED="1602137470488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$classes_and_objects.coverage" NAME="classes_and_objects Coverage Results" MODIFIED="1622780602167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$sample.coverage" NAME="sample Coverage Results" MODIFIED="1639675121829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Random_examples" />
+    <SUITE FILE_PATH="coverage/Learning_example$sample_logging.coverage" NAME="sample_logging Coverage Results" MODIFIED="1615528287997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logging_modules" />
+    <SUITE FILE_PATH="coverage/Learning_example$recharge_data.coverage" NAME="recharge_data Coverage Results" MODIFIED="1609772772259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$sample_audio_book.coverage" NAME="sample_audio_book Coverage Results" MODIFIED="1624202250861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pdf_to_audiobook" />
+    <SUITE FILE_PATH="coverage/Learning_example$To_practice.coverage" NAME="To_practice Coverage Results" MODIFIED="1635156535673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Learning_example$generators.coverage" NAME="generators Coverage Results" MODIFIED="1602049763019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Learning_example$fetch_outlook_mails.coverage" NAME="fetch_outlook_mails Coverage Results" MODIFIED="1636451806358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Outlook_data" />
+    <SUITE FILE_PATH="coverage/Learning_example$string_functions.coverage" NAME="string_functions Coverage Results" MODIFIED="1610340494250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_example$list_contains_list.coverage" NAME="list_contains_list Coverage Results" MODIFIED="1612420943758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_structures" />
+    <SUITE FILE_PATH="coverage/Learning_example$sample_gui.coverage" NAME="sample_gui Coverage Results" MODIFIED="1618832410504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI_Programs" />
+    <SUITE FILE_PATH="coverage/Learning_example$log_config_file.coverage" NAME="log_config_file Coverage Results" MODIFIED="1615445226211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logg" />
+    <SUITE FILE_PATH="coverage/Learning_example$diff_handler_formatter.coverage" NAME="diff_handler_formatter Coverage Results" MODIFIED="1615444564457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Logg" />
   </component>
 </project>

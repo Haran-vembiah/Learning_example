@@ -6,25 +6,20 @@ print(type(backlog_req))
 
 print(backlog_req[0])
 
-
 param_value = "Burette(s) 4"
 new_value = param_value.rstrip("(s) 4")
 print(new_value)
 
 new_str = param_value.split(" ")
 print(new_str)
-lisy,lisy,lll = []
 
-label_list = [Type, Name, conct, param4]
-value_list = []
-param_value_dict = {}
-for single_dict in param_value_dict:
-    if param_label in single_dict.values():
-        if param_label in label_list:
-            value_list.append(single_dict['value'])
+str1 = "welcome to python"
+print(str1.upper())
+print(str1.title())
+print(str1.replace('python', 'Java'))
+print(str1.find('c'))
 
-
-
-    for key.value in single_dict.items():
-        if value in label_list:
-            value_list.append(value)
+str_list = str1.split(" ")
+print(str_list)
+str_new = '-'
+print(str_new.join(str_list))

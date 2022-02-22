@@ -18,13 +18,13 @@ print('For dir')
 print(dir(dict1))
 
 # list comprehension
-d = {'ANIMAL' : ['CAT','DOG','FISH','HEDGEHOG']}
-d_list = [[k,v] for k,value in d.items() for v in value]
+d = {'ANIMAL': ['CAT', 'DOG', 'FISH', 'HEDGEHOG']}
+d_list = [[k, v] for k, value in d.items() for v in value]
 print('by list comprehension')
 print(d_list)
 
 # Iteration over
-d = {'ANIMAL' : ['CAT','DOG','FISH','HEDGEHOG']}
+d = {'ANIMAL': ['CAT', 'DOG', 'FISH', 'HEDGEHOG']}
 d_list = []
 for key, values in d.items():
     for value in values:
