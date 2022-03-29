@@ -1,8 +1,8 @@
 import sqlalchemy
-from sqlalchemy import create_engine, MetaData, Table, UniqueConstraint, CheckConstraint, REAL, TEXT, FLOAT
-from sqlalchemy import Column, Integer, VARCHAR, TIMESTAMP, INTEGER, ForeignKey, DefaultClause, Sequence, ForeignKeyConstraint
+from sqlalchemy import CheckConstraint, REAL, TEXT
+from sqlalchemy import Column, VARCHAR, TIMESTAMP, INTEGER, ForeignKey, DefaultClause, Sequence
 from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import relationship, sessionmaker
+from sqlalchemy.orm import sessionmaker
 
 user = 'postgres'
 password = '54321'
@@ -16,7 +16,6 @@ url = 'postgresql://{}:{}@{}:{}/{}'
 url = url.format(user, password, host, port, db)
 con = sqlalchemy.create_engine(url, client_encoding='utf8')
 
-
 Session = sessionmaker(bind=con)
 session = Session()
 
@@ -26,6 +25,7 @@ session = Session()
 # print(meta)
 
 Base = declarative_base()
+
 
 class Requirement(Base):
     """
@@ -63,10 +63,13 @@ class TcSuiteMap(Base):
     __tablename__ = 'tc_to_suite_map'
     __table_args__ = {'schema': schema_name}
 
-    tc_id = Column(INTEGER(), ForeignKey(schema_name+'.'+'test_case.tc_id'), primary_key=True, nullable=False)
-    tc_version = Column(REAL(), ForeignKey(schema_name+'.'+'test_case.tc_version'), primary_key=True, nullable=False)
-    suite_id = Column(INTEGER(), ForeignKey(schema_name+'.'+'test_suite.suite_id'), primary_key=True, nullable=False)
-    suite_version = Column(REAL(), ForeignKey(schema_name+'.'+'test_suite.suite_version'), primary_key=True, nullable=False)
+    tc_id = Column(INTEGER(), ForeignKey(schema_name + '.' + 'test_case.tc_id'), primary_key=True, nullable=False)
+    tc_version = Column(REAL(), ForeignKey(schema_name + '.' + 'test_case.tc_version'), primary_key=True,
+                        nullable=False)
+    suite_id = Column(INTEGER(), ForeignKey(schema_name + '.' + 'test_suite.suite_id'), primary_key=True,
+                      nullable=False)
+    suite_version = Column(REAL(), ForeignKey(schema_name + '.' + 'test_suite.suite_version'), primary_key=True,
+                           nullable=False)
 
     added_by = Column(VARCHAR())
     added_time = Column(TIMESTAMP())
@@ -132,10 +135,8 @@ class TestSuite(Base):
     last_modified_time = Column(TIMESTAMP())
 
 
-
-
-for smap, tc, ts in session.query(TcSuiteMap, TestCase, TestSuite).\
-        filter(TestCase.tc_id == TcSuiteMap.tc_id).\
+for smap, tc, ts in session.query(TcSuiteMap, TestCase, TestSuite). \
+        filter(TestCase.tc_id == TcSuiteMap.tc_id). \
         filter(TcSuiteMap.suite_id == TestSuite.suite_id).all():
     # print(smap.added_by)
     print(smap.added_time, tc.tc_title, ts.suite_name)
@@ -149,5 +150,4 @@ for smap, tc, ts in session.query(TcSuiteMap, TestCase, TestSuite).\
 #
 #
 # for table in meta.sorted_tables:
-#     print ("Table: ", table)
-
+#     print("Table: ", table)

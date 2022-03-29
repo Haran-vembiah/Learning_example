@@ -3,8 +3,8 @@ import datetime as dt
 import pandas as pd
 import win32com.client
 
-begin = dt.datetime(2021, 9, 1)
-end = dt.datetime(2021, 10, 1)
+begin = dt.datetime(2022, 2, 1)
+end = dt.datetime(2022, 3, 1)
 
 
 def get_calendar(begin, end):
@@ -34,16 +34,16 @@ def get_appointments(calendar, body_kw=None):
     })
     return df
 
+
 cal = get_calendar(begin, end)
 appointment = get_appointments(cal)
 print(type(appointment))
-filename = 'Meeting_data_of_' + str(begin.strftime("%B")) +'_month.xlsx'
+filename = 'Meeting_data_of_' + str(begin.strftime("%B")) + '_month.xlsx'
 summary = appointment.groupby('subject')['duration'].sum()
 print(type(summary))
 
 date_wise_details = appointment.groupby('date').sum()
 with pd.ExcelWriter(filename) as writer:
     appointment.to_excel(writer, sheet_name='Detiled_info')
-    summary.to_excel(writer,sheet_name='Meeting_wise_data')
-    date_wise_details.to_excel(writer,sheet_name='Date_wise_data')
-
+    summary.to_excel(writer, sheet_name='Meeting_wise_data')
+    date_wise_details.to_excel(writer, sheet_name='Date_wise_data')

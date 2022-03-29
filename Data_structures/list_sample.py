@@ -72,3 +72,13 @@ for x in adults:
 tup_sam = (1, 2, 3)
 print(len(tup_sam))
 print(tup_sam[1])
+
+sam_list = [5, 2, 8, 4, 7, 1]
+print(sam_list)
+print(sorted(sam_list))
+print(sam_list)
+print(sam_list.sort())
+print(sam_list)
+
+tc_list = ['39319', '39320']
+print(str(','.join(tc_list)))
