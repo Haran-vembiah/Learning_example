@@ -39,7 +39,7 @@ namespace eval ::tcl {
 	#		-nostatics false ch1
 	OptProc OptParseTest {
             {subcommand -choice {save print} "sub command"}
-            {arg1 3 "some number"}
+            {self 3 "some number"}
             {-aflag}
             {-intflag      7}
             {-weirdflag                    "help string"}
@@ -733,7 +733,7 @@ proc ::tcl::OptCheckType {arg type {typeArgs ""}} {
 
     # Translate one item to canonical form
     proc OptNormalizeOne {item} {
-        set lg [Lassign $item varname arg1 arg2 arg3]
+        set lg [Lassign $item varname self arg2 arg3]
 #       puts "called optnormalizeone '$item' v=($varname), lg=$lg"
         set isflag [OptIsFlag $varname]
 	set isopt  [OptIsOpt  $varname]
@@ -762,7 +762,7 @@ proc ::tcl::OptCheckType {arg type {typeArgs ""}} {
             2 {
                 # varname default
                 # varname help
-                set type [OptGuessType $arg1]
+                set type [OptGuessType $self]
                 if {[string equal $type "string"]} {
                     if {$isflag} {
 			set type boolflag
@@ -771,10 +771,10 @@ proc ::tcl::OptCheckType {arg type {typeArgs ""}} {
 			set type any
 			set def ""
 		    }
-		    set help $arg1
+		    set help $self
                 } else {
                     set help ""
-                    set def $arg1
+                    set def $self
                 }
                 return [OptNewInst $state $varname $type $def $help]
             }
@@ -782,7 +782,7 @@ proc ::tcl::OptCheckType {arg type {typeArgs ""}} {
                 # varname type value
                 # varname value comment
 
-                if {[regexp {^-(.+)$} $arg1 x type]} {
+                if {[regexp {^-(.+)$} $self x type]} {
 		    # flags/optValue as they are optional, need a "value",
 		    # on the contrary, for a variable (non optional),
 	            # default value is pointless, 'cept for choices :
@@ -793,11 +793,11 @@ proc ::tcl::OptCheckType {arg type {typeArgs ""}} {
 		    }
                 } else {
                     return [OptNewInst $state $varname\
-			    [OptGuessType $arg1] $arg1 $arg2]
+			    [OptGuessType $self] $self $arg2]
                 }
             }
             4 {
-                if {[regexp {^-(.+)$} $arg1 x type]} {
+                if {[regexp {^-(.+)$} $self x type]} {
 		    return [OptNewInst $state $varname $type $arg2 $arg3]
                 } else {
                     return -code error [OptOptUsage $item]

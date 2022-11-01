@@ -21,7 +21,7 @@ print(dir(dict1))
 d = {'ANIMAL': ['CAT', 'DOG', 'FISH', 'HEDGEHOG']}
 d_list = [[k, v] for k, value in d.items() for v in value]
 print('by list comprehension')
-print(d_list)
+print("lidt from dict", d_list)
 
 # Iteration over
 d = {'ANIMAL': ['CAT', 'DOG', 'FISH', 'HEDGEHOG']}
@@ -67,3 +67,6 @@ sampleDict = {"name": "Kelly", "age": 25, "salary": 8000, "city": "New york"}
 keys = ["name", "salary"]
 newDict = {k: sampleDict[k] for k in keys}
 print(newDict)
+
+for sam_ in sampleDict:
+    print(sam_)

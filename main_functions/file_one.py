@@ -12,9 +12,16 @@ def function_two():
     print("Function two is executed")
 
 
+def funct2(param1=None, param2=None):
+    print(f'value is {c} and {d}')
+
+
 if __name__ == "__main__":
+    c = 1
+    d = 2
     print("File one executed when ran directly")
     function_two()
-    function_three()
+    # function_three()
+    funct2(param1=c, param2=d)
 else:
     print("File one executed when imported")

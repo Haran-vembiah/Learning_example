@@ -1,6 +1,9 @@
 import pydoc
 import string
 
+sam_ = "AnaChemProjects\\G5\\Titration\\KF\\SW\\Orion"
+sam_list = sam_.split('\\')
+print(sam_list)
 name = '30319-27249'
 print(name)
 backlog_req = name.split('-')
@@ -33,3 +36,17 @@ str_new = '-'
 print(str_new.join(str_list))
 
 pydoc.render_doc(string, renderer=pydoc.plaintext)
+print('sd')
+a = "ABCDCDCD"
+sub_ = "CDC"
+
+
+def count_substring(string, sub_string):
+    count = 0
+    for i in range(len(string)):
+        if string[i:].startswith(sub_string):
+            count += 1
+    return count
+
+
+print("count is: ", count_substring(a, sub_))

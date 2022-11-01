@@ -13,3 +13,7 @@ print(list1)
 name = "operation stirrer   "
 renamed = name.strip()
 print(renamed)
+
+
+def init():
+    print("sample init method")
