@@ -1,0 +1,111 @@
+14    B001 Do not use bare `except:`, it also catches unexpected events like memory errors, interrupts, system exit, and so on.  Prefer `except Exception:`.  If you're sure what you're doing, be explicit and write `except BaseException:`.
+29    B007 Loop control variable 'raw_item' not used within the loop body. If this is intended, start the name with an underscore.
+2     B008 Do not perform function calls in argument defaults.  The call is performed only once at function definition time. All calls to your function will reuse the result of that definition-time function call.  If this is intended, assign the function call to a module-level variable and use that variable as a default value.
+2     B012 return/continue/break inside finally blocks cause exceptions to be silenced. Exceptions should be silenced in except blocks. Control statements can be moved outside the finally block.
+4     C416 Unnecessary list comprehension - rewrite using list().
+92    CCR001 Cognitive complexity is too high (9 > 7)
+7     CFQ001 Function map_param_table_to_taf_format has length 101 that exceeds max allowed length 100
+69    CFQ002 Function "__init__" has 10 arguments that exceeds max allowed 6
+8     CFQ004 Function "get_first_available_port" has 5 returns that exceeds max allowed 3
+121   D100 Missing docstring in public module
+122   D101 Missing docstring in public class
+179   D102 Missing docstring in public method
+654   D103 Missing docstring in public function
+25    D104 Missing docstring in public package
+3     D105 Missing docstring in magic method
+1     D106 Missing docstring in public nested class
+86    D107 Missing docstring in __init__
+83    D200 One-line docstring should fit on one line with quotes
+4     D201 No blank lines allowed before function docstring
+14    D202 No blank lines allowed after function docstring
+78    D204 1 blank line required after class docstring
+228   D205 1 blank line required between summary line and description
+2     D207 Docstring is under-indented
+7     D208 Docstring is over-indented
+1     D209 Multi-line docstring closing quotes should be on a separate line
+1     D211 No blank lines allowed before class docstring
+6     D300 Use """triple double quotes"""
+1     D301 Use r""" if any backslashes in a docstring
+197   D400 First line should end with a period
+63    D401 First line should be in imperative mood
+9     D402 First line should not be the function's "signature"
+29    D403 First word of the first line should be properly capitalized
+5     D414 Section has no content
+2     E101 indentation contains mixed spaces and tabs
+32    E111 indentation is not a multiple of 4
+5     E114 indentation is not a multiple of 4 (comment)
+1     E115 expected an indented block (comment)
+1     E116 unexpected indentation (comment)
+3     E117 over-indented (comment)
+1540  E121 continuation line under-indented for hanging indent
+132   E122 continuation line missing indentation or outdented
+276   E123 closing bracket does not match indentation of opening bracket's line
+4     E124 closing bracket does not match visual indentation
+142   E126 continuation line over-indented for hanging indent
+5     E127 continuation line over-indented for visual indent
+492   E128 continuation line under-indented for visual indent
+1     E131 continuation line unaligned for hanging indent
+1     E201 whitespace after '['
+1     E202 whitespace before ')'
+428   E203 whitespace before ','
+1     E211 whitespace before '['
+1     E221 multiple spaces before operator
+1     E222 multiple spaces after operator
+38    E225 missing whitespace around operator
+32    E226 missing whitespace around arithmetic operator
+185   E231 missing whitespace after ','
+477   E241 multiple spaces after ','
+22    E251 unexpected spaces around keyword / parameter equals
+9     E261 at least two spaces before inline comment
+2     E262 inline comment should start with '# '
+195   E265 block comment should start with '# '
+2     E266 too many leading '#' for block comment
+1     E271 multiple spaces after keyword
+2     E301 expected 1 blank line, found 0
+99    E302 expected 2 blank lines, found 1
+68    E303 too many blank lines (2)
+3     E305 expected 2 blank lines after class or function definition, found 1
+12    E402 module level import not at top of file
+6     E711 comparison to None should be 'if cond is None:'
+5     E712 comparison to False should be 'if cond is False:' or 'if not cond:'
+14    E722 do not use bare 'except'
+270   E800 Found commented out code
+18    ECE001 Expression is too complex (8.0 > 7)
+215   F401 'datetime.datetime' imported but unused
+2     F403 'from db.conn import *' used; unable to detect undefined names
+6     F405 'new_session_factory' may be undefined, or defined from star imports: db.conn
+85    F541 f-string is missing placeholders
+60    F811 redefinition of unused 'get_run_mode' from line 59
+9     F821 undefined name 'session'
+67    F841 local variable 'mr' is assigned to but never used
+180   H601 class has low (30.21%) cohesion
+10    PT001 use @pytest.fixture() over @pytest.fixture
+9     SIM907 Use 'Optional[str]' instead of 'Union[str, None]'
+2     SIM908 Use 'req.fields.get("MTANACHEM.RequirementVersion")' instead of 'if "MTANACHEM.RequirementVersion" in req.fields: req.fields["MTANACHEM.RequirementVersion"]'
+454   T201 print found.
+4     T203 pprint found.
+2     W191 indentation contains tabs
+29    W291 trailing whitespace
+58    W292 no newline at end of file
+8     W293 blank line contains whitespace
+42    W391 blank line at end of file
+1     W503 line break before binary operator
+2     W504 line break after binary operator
+227   W605 invalid escape sequence '\s'
+2611  E501 line too long (108 > 100 characters)
+1     PT011 pytest.raises(ValueError) is too broad, set the match parameter or use a more specific exception
+2     PT012 pytest.raises() block should contain a single simple statement
+4     R503 missing explicit return at the end of function able to return non-None value.
+118   R504 unnecessary variable assignment before return statement.
+22    R505 unnecessary else after return statement.
+5     R506 unnecessary else after raise statement.
+1     R507 unnecessary else after continue statement.
+1     SIM101 Multiple isinstance-calls which can be merged into a single call for variable 'function_name'
+10    SIM102 Use a single if-statement instead of nested if-statements
+1     SIM104 Use 'yield from method_to_invoke(input_request)'
+11    SIM114 Use logical or ((data_type == 'REFERENCE') or (data_type == 'UNKNOWN')) and a single body
+10    SIM115 Use context handler for opening files
+3     SIM118 Use 'sub_key in aut_map' instead of 'sub_key in aut_map.keys()'
+19    SIM120 Use 'class GrpcConnection:' instead of 'class GrpcConnection(object):'
+4     SIM210 Use 'bool(aut_release_count > 0)' instead of 'True if aut_release_count > 0 else False'
+2     SIM401 Use 'new_release_ado.ado_project = release_info['pipeline_details'].get("projectID", "")' instead of an if-block

@@ -1,2 +1,6 @@
+sam_list = []
+
+
 def test():
-    pass
+    assert sam_list
+    assert isinstance(sam_list, list)
