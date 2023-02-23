@@ -41,8 +41,9 @@ for code, text_list in code_text_list_dict.items():
     error_text_list.append(code_text_dict[code])
     error_Occurrence_list.append(len(text_list))
     # code_text_count_dict[code].append(len(text_list))
-# print(code_text_dict)
 
+
+# print(code_text_dict)
 # print(error_code_list)
 # print(len(error_code_list))
 # print(error_text_list)
