@@ -49,6 +49,11 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -56,6 +61,14 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f9c9cdb1-b5cb-433d-a4cd-6ae8d8ef8aab" />
+        <option name="url" value="git@github.com:/Haran-vembiah/Learning_example.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Copying_directory/fetch_srd_from_sharepoint.py" root0="FORCE_HIGHLIGHTING" />
@@ -750,14 +763,14 @@
       <workItem from="1676952387927" duration="598000" />
       <workItem from="1677058592460" duration="1562000" />
       <workItem from="1677127985597" duration="595000" />
-      <workItem from="1677129573454" duration="692000" />
-    </task>
-    <task id="LOCAL-00003" summary="Test">
-      <created>1568291805568</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1568291805568</updated>
+      <workItem from="1677129573454" duration="1670000" />
+      <workItem from="1677208881601" duration="594000" />
+      <workItem from="1677557716376" duration="1192000" />
+      <workItem from="1677643405736" duration="1216000" />
+      <workItem from="1677727503511" duration="593000" />
+      <workItem from="1678337845135" duration="596000" />
+      <workItem from="1678341665347" duration="2969000" />
+      <workItem from="1678362049275" duration="640000" />
     </task>
     <task id="LOCAL-00004" summary="Test">
       <created>1569490325195</created>
@@ -1095,7 +1108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676348876093</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="updated few conceptss">
+      <created>1677130555401</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1677130555402</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
